@@ -1,1 +1,3 @@
 file for feature
+
+add strings 
