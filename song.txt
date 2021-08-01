@@ -6,3 +6,4 @@ BY BY BY YA BY BY
 
 
 123 123 
+Now I use web git and try to pull this strings into my local pc
